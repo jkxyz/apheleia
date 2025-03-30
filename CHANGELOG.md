@@ -9,6 +9,7 @@ The format is based on [Keep a Changelog].
   place it as the second line instead ([#299]).
 * Fix invoking the diff command on Windows by always passing the --text
 flag
+* Handle remote buffers using default formatters.
 
 ### Formatters
 * Format Bazel files according to their type
